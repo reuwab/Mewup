@@ -1,0 +1,9 @@
+C:\Users\reube\source\repos\OperatingSystem\bin\Debug\netcoreapp2.0\cosmos\OperatingSystem.deps.json
+C:\Users\reube\source\repos\OperatingSystem\bin\Debug\netcoreapp2.0\cosmos\OperatingSystem.dll
+C:\Users\reube\source\repos\OperatingSystem\bin\Debug\netcoreapp2.0\cosmos\OperatingSystem.pdb
+C:\Users\reube\source\repos\OperatingSystem\obj\Debug\netcoreapp2.0\cosmos\OperatingSystem.csprojAssemblyReference.cache
+C:\Users\reube\source\repos\OperatingSystem\obj\Debug\netcoreapp2.0\cosmos\OperatingSystem.AssemblyInfoInputs.cache
+C:\Users\reube\source\repos\OperatingSystem\obj\Debug\netcoreapp2.0\cosmos\OperatingSystem.AssemblyInfo.cs
+C:\Users\reube\source\repos\OperatingSystem\obj\Debug\netcoreapp2.0\cosmos\OperatingSystem.csproj.CoreCompileInputs.cache
+C:\Users\reube\source\repos\OperatingSystem\obj\Debug\netcoreapp2.0\cosmos\OperatingSystem.dll
+C:\Users\reube\source\repos\OperatingSystem\obj\Debug\netcoreapp2.0\cosmos\OperatingSystem.pdb
